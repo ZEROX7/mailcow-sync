@@ -20,7 +20,7 @@ Authentik → Sync Service → Mailcow API
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mailcow-sync.git
+git clone https://github.com/ZEROX7/mailcow-sync.git
 cd mailcow-sync
 ```
 ### 2. Copy and edit example.env
