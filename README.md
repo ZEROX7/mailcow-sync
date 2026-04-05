@@ -23,10 +23,10 @@ Authentik → Sync Service → Mailcow API
 git clone https://github.com/ZEROX7/mailcow-sync.git
 cd mailcow-sync
 ```
-### 2. Copy and edit example.env
+### 2. Copy and edit .env.example
 
 ```bash
-cp example.env .env
+cp .env.example .env
 nano .env
 ```
 
