@@ -22,3 +22,15 @@ Authentik → Sync Service → Mailcow API
 ```bash
 git clone https://github.com/YOUR_USERNAME/mailcow-sync.git
 cd mailcow-sync
+```
+### 2. Copy and edit example.env
+
+```bash
+cp example.env .env
+nano .env
+```
+
+### 3. Run Container
+```bash
+docker compose up -d --build
+```
